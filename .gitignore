@@ -1,0 +1,3 @@
+*.idea
+node-docker/node-docker.iml
+*/node_modules
